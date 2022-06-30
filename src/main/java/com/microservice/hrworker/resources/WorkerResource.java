@@ -1,9 +1,8 @@
-package com.example.hrworker.resources;
+package com.microservice.hrworker.resources;
 
 import java.util.List;
-import com.example.hrworker.entities.Worker;
-import com.example.hrworker.repositories.WorkerRepository;
-import org.hibernate.jdbc.Work;
+import com.microservice.hrworker.entities.Worker;
+import com.microservice.hrworker.repositories.WorkerRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

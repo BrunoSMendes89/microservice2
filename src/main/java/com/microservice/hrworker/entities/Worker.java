@@ -1,4 +1,4 @@
-package com.example.hrworker.entities;
+package com.microservice.hrworker.entities;
 
 import javax.persistence.*;
 import java.io.Serializable;
